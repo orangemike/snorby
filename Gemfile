@@ -5,7 +5,7 @@ RSPEC_VERSION = '~> 2.0.0'
 DATAMAPPER    = 'https://github.com/datamapper'
 DM_VERSION    = '~> 1.2.0'
 
-gem 'rake', '0.9.2'
+gem 'rake', '12.3.3'
 gem 'request_store', '~> 1.0.5'
 gem 'rails',                       RAILS_VERSION
 gem 'jquery-rails'
